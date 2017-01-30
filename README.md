@@ -6,7 +6,7 @@ Can be build for Mobile.
 
 ## Contributors
 
-Chema Damak<br />   
+Chema Damak<br />
 Sami Zalila<br /> 
 Aziz Baccouche<br /> 
 Yousser ElAmri<br /> 
