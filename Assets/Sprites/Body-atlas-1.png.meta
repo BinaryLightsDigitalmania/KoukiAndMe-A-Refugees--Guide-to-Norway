@@ -1,0 +1,801 @@
+fileFormatVersion: 2
+guid: 1c451b7438dbd4d97bc132c229f69c0e
+timeCreated: 1476574222
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Body-atlas-1_0
+    21300002: Body-atlas-1_1
+    21300004: Body-atlas-1_2
+    21300006: Body-atlas-1_3
+    21300008: Body-atlas-1_4
+    21300010: Body-atlas-1_5
+    21300012: Body-atlas-1_6
+    21300014: Body-atlas-1_7
+    21300016: Body-atlas-1_8
+    21300018: Body-atlas-1_9
+    21300020: Body-atlas-1_10
+    21300022: Body-atlas-1_11
+    21300024: Body-atlas-1_12
+    21300026: Body-atlas-1_13
+    21300028: Body-atlas-1_14
+    21300030: Body-atlas-1_15
+    21300032: Body-atlas-1_16
+    21300034: Body-atlas-1_17
+    21300036: Body-atlas-1_18
+    21300038: Body-atlas-1_19
+    21300040: Body-atlas-1_20
+    21300042: Body-atlas-1_21
+    21300044: Body-atlas-1_22
+    21300046: Body-atlas-1_23
+    21300048: Body-atlas-1_24
+    21300050: Body-atlas-1_25
+    21300052: Body-atlas-1_26
+    21300054: Body-atlas-1_27
+    21300056: Body-atlas-1_28
+    21300058: Body-atlas-1_29
+    21300060: Body-atlas-1_30
+    21300062: Body-atlas-1_31
+    21300064: Body-atlas-1_32
+    21300066: Body-atlas-1_33
+    21300068: Body-atlas-1_34
+    21300070: Body-atlas-1_35
+    21300072: Body-atlas-1_36
+    21300074: Body-atlas-1_37
+    21300076: Body-atlas-1_38
+    21300078: Body-atlas-1_39
+    21300080: Body-atlas-1_40
+    21300082: Body-atlas-1_41
+    21300084: Body-atlas-1_42
+    21300086: Body-atlas-1_43
+    21300088: Body-atlas-1_44
+    21300090: Body-atlas-1_45
+    21300092: Body-atlas-1_46
+    21300094: Body-atlas-1_47
+    21300096: Body-atlas-1_48
+    21300098: Body-atlas-1_49
+    21300100: Body-atlas-1_50
+    21300102: Body-atlas-1_51
+    21300104: Body-atlas-1_52
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Body-atlas-1_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2000
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1999
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1921
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1727
+        width: 243
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_4
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1712
+        width: 258
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_5
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1712
+        width: 258
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1943
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1944
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_8
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1922
+        width: 183
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1878
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1876
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1804
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_12
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1809
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1844
+        width: 116
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_14
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1796
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_15
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1800
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_16
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1796
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_17
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1800
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1582
+        width: 184
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1651
+        width: 51
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_20
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1656
+        width: 52
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1776
+        width: 137
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_22
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1650
+        width: 53
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_23
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1655
+        width: 57
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_24
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1650
+        width: 53
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_25
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1655
+        width: 55
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_26
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1722
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_27
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1715
+        width: 22
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1565
+        width: 37
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_29
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1563
+        width: 36
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_30
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1358
+        width: 246
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_31
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1362
+        width: 249
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1524
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1526
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_34
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1500
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_35
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1498
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_36
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1434
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_37
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1439
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_38
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1438
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_39
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1440
+        width: 52
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_40
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1328
+        width: 200
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_41
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1429
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_42
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1429
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_43
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1362
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_44
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1362
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_45
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1283
+        width: 53
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_46
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1288
+        width: 53
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_47
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1284
+        width: 52
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_48
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1291
+        width: 54
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1295
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_50
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1295
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_51
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1131
+        width: 125
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Body-atlas-1_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1004
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

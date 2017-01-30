@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 3609400453d90a144b2047b6899f48e7
+timeCreated: 1458725550
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head Atlas_0
+    21300002: Head Atlas_1
+    21300004: Head Atlas_2
+    21300006: Head Atlas_3
+    21300008: Head Atlas_4
+    21300010: Head Atlas_5
+    21300012: Head Atlas_6
+    21300014: Head Atlas_7
+    21300016: Head Atlas_8
+    21300018: Head Atlas_9
+    21300020: Head Atlas_10
+    21300022: Head Atlas_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 443
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 22.5}
+        - {x: -20, y: 14.5}
+        - {x: -20, y: -17.5}
+        - {x: -18, y: -22.5}
+        - {x: 20, y: -22.5}
+        - {x: 20, y: 17.5}
+        - {x: 18, y: 22.5}
+    - name: Head Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 442
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: -22}
+        - {x: 20, y: -22}
+        - {x: 20, y: 17}
+        - {x: 18, y: 22}
+        - {x: -13, y: 22}
+        - {x: -20, y: 16}
+    - name: Head Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 384
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 41.5}
+        - {x: -36, y: 34.5}
+        - {x: -36, y: -11.5}
+        - {x: -32, y: -30.5}
+        - {x: -11, y: -41.5}
+        - {x: 30, y: -41.5}
+        - {x: 36, y: -22.5}
+        - {x: 36, y: 38.5}
+        - {x: 27, y: 41.5}
+    - name: Head Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 380
+        width: 40
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.97}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 1.3800049}
+        - {x: -20, y: -4.619995}
+        - {x: -20, y: -43.619995}
+        - {x: -19, y: -44.619995}
+        - {x: 19, y: -44.619995}
+        - {x: 20, y: -42.619995}
+        - {x: 20, y: -0.6199951}
+        - {x: 14, y: 1.3800049}
+    - name: Head Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 379
+        width: 40
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.97}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 1.3800049}
+        - {x: -20, y: -5.619995}
+        - {x: -20, y: -40.619995}
+        - {x: -18, y: -44.619995}
+        - {x: 19, y: -44.619995}
+        - {x: 20, y: -43.619995}
+        - {x: 20, y: 0.38000488}
+        - {x: 16, y: 1.3800049}
+    - name: Head Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 74
+        width: 245
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.5, y: 23.5}
+        - {x: 61.5, y: 80.5}
+        - {x: 77.5, y: 135.5}
+        - {x: 73.5, y: 140.5}
+        - {x: -67.5, y: 140.5}
+        - {x: -63.5, y: 46.5}
+        - {x: -73.5, y: 23.5}
+        - {x: -91.5, y: -31.5}
+        - {x: -98.5, y: -73.5}
+        - {x: -112.5, y: -107.5}
+        - {x: -122.5, y: -124.5}
+        - {x: -122.5, y: -140.5}
+        - {x: 122.5, y: -140.5}
+        - {x: 122.5, y: -114.5}
+        - {x: 101.5, y: -72.5}
+    - name: Head Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 290
+        width: 183
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: 29}
+        - {x: -91.5, y: -21}
+        - {x: -89.5, y: -29}
+        - {x: 91.5, y: -29}
+        - {x: 91.5, y: 29}
+    - name: Head Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 212
+        width: 116
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 24}
+        - {x: -58, y: -2}
+        - {x: -34, y: -24}
+        - {x: 37, y: -24}
+        - {x: 43, y: -22}
+        - {x: 58, y: 4}
+        - {x: 58, y: 24}
+    - name: Head Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 135
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Head Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 60
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 10.5}
+        - {x: -13.5, y: 1.5}
+        - {x: -13.5, y: -18.5}
+        - {x: 10.5, y: -18.5}
+        - {x: 12.5, y: -17.5}
+        - {x: 12.5, y: 0.5}
+        - {x: 10.5, y: 10.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

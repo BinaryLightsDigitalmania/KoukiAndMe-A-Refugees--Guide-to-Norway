@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: cf26a5cb8f91e4b519d2bce19959b1d9
+timeCreated: 1476574111
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlas_Wardrobe_0
+    21300002: atlas_Wardrobe_1
+    21300004: atlas_Wardrobe_2
+    21300006: atlas_Wardrobe_3
+    21300008: atlas_Wardrobe_4
+    21300010: atlas_Wardrobe_5
+    21300012: atlas_Wardrobe_6
+    21300014: atlas_Wardrobe_7
+    21300016: atlas_Wardrobe_8
+    21300018: atlas_Wardrobe_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_Wardrobe_0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 912
+        width: 708
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_Wardrobe_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 912
+        width: 708
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_Wardrobe_2
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 705
+        width: 164
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_Wardrobe_3
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 495
+        width: 163
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_Wardrobe_4
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 496
+        width: 154
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_Wardrobe_5
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 278
+        width: 152
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_Wardrobe_6
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 281
+        width: 169
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_Wardrobe_7
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 93
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_Wardrobe_8
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 93
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_Wardrobe_9
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 93
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

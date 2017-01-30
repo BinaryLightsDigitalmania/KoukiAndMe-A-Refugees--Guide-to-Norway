@@ -1,0 +1,965 @@
+fileFormatVersion: 2
+guid: 5e2f5c7d0ca43aa408dc5de30613f287
+timeCreated: 1459079204
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Atlas Elements_0
+    21300002: Atlas Elements_1
+    21300004: Atlas Elements_2
+    21300006: Atlas Elements_3
+    21300008: Atlas Elements_4
+    21300010: Atlas Elements_5
+    21300012: Atlas Elements_6
+    21300014: Atlas Elements_7
+    21300016: Atlas Elements_8
+    21300018: Atlas Elements_9
+    21300020: Atlas Elements_10
+    21300022: Atlas Elements_11
+    21300024: Atlas Elements_12
+    21300026: Atlas Elements_13
+    21300028: Atlas Elements_14
+    21300030: Atlas Elements_15
+    21300032: Atlas Elements_16
+    21300034: Atlas Elements_17
+    21300036: Atlas Elements_18
+    21300038: Atlas Elements_19
+    21300040: Atlas Elements_20
+    21300042: Atlas Elements_21
+    21300044: Atlas Elements_22
+    21300046: Atlas Elements_23
+    21300048: Atlas Elements_24
+    21300050: Atlas Elements_25
+    21300052: Atlas Elements_26
+    21300054: Atlas Elements_27
+    21300056: Atlas Elements_28
+    21300058: Atlas Elements_29
+    21300060: Atlas Elements_30
+    21300062: Atlas Elements_31
+    21300064: Atlas Elements_32
+    21300066: Atlas Elements_33
+    21300068: Atlas Elements_34
+    21300070: Atlas Elements_35
+    21300072: Atlas Elements_36
+    21300074: Atlas Elements_37
+    21300076: Atlas Elements_38
+    21300078: Atlas Elements_39
+    21300080: Atlas Elements_40
+    21300082: Atlas Elements_41
+    21300084: Atlas Elements_42
+    21300086: Atlas Elements_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Atlas Elements_0
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1894
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 66}
+        - {x: -27.5, y: 66}
+        - {x: -64.5, y: 28}
+        - {x: -64.5, y: -15}
+        - {x: -42.5, y: -66}
+        - {x: 14.5, y: -66}
+        - {x: 64.5, y: -52}
+        - {x: 64.5, y: 38}
+        - {x: 63.5, y: 42}
+    - name: Atlas Elements_1
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1889
+        width: 122
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 74}
+        - {x: -59, y: 55}
+        - {x: -61, y: 47}
+        - {x: -61, y: 26}
+        - {x: -42, y: 4}
+        - {x: -30, y: -4}
+        - {x: -11, y: -67}
+        - {x: -3, y: -74}
+        - {x: 61, y: -74}
+        - {x: 61, y: 74}
+    - name: Atlas Elements_2
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1892
+        width: 344
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 161, y: 45}
+        - {x: -160, y: 45}
+        - {x: -165, y: 44}
+        - {x: -172, y: 32}
+        - {x: -172, y: -29}
+        - {x: -164, y: -40}
+        - {x: -150, y: -45}
+        - {x: 155, y: -45}
+        - {x: 170, y: -33}
+        - {x: 172, y: -27}
+        - {x: 172, y: 31}
+    - name: Atlas Elements_3
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1772
+        width: 213
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.5, y: -84}
+        - {x: 105.5, y: 93}
+        - {x: 99.5, y: 106}
+        - {x: 89.5, y: 115}
+        - {x: 82.5, y: 118}
+        - {x: -87.5, y: 118}
+        - {x: -102.5, y: 108}
+        - {x: -106.5, y: 94}
+        - {x: -105.5, y: 38}
+        - {x: -106.5, y: -40}
+        - {x: -106.5, y: -97}
+        - {x: -98.5, y: -118}
+        - {x: 88.5, y: -118}
+        - {x: 98.5, y: -107}
+        - {x: 103.5, y: -99}
+    - name: Atlas Elements_4
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1777
+        width: 207
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85.5, y: -117.5}
+        - {x: 99.5, y: -107.5}
+        - {x: 103.5, y: -96.5}
+        - {x: 103.5, y: 99.5}
+        - {x: 101.5, y: 103.5}
+        - {x: 92.5, y: 113.5}
+        - {x: 83.5, y: 117.5}
+        - {x: -88.5, y: 117.5}
+        - {x: -102.5, y: 108.5}
+        - {x: -103.5, y: 103.5}
+        - {x: -103.5, y: -105.5}
+        - {x: -96.5, y: -114.5}
+        - {x: -90.5, y: -117.5}
+        - {x: 9.5, y: -117.5}
+        - {x: 74.5, y: -116.5}
+        - {x: 74.5, y: -117.5}
+    - name: Atlas Elements_5
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1758
+        width: 234
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -105, y: 131}
+        - {x: -117, y: 128}
+        - {x: -117, y: -119}
+        - {x: -104, y: -131}
+        - {x: 104, y: -131}
+        - {x: 117, y: -126}
+        - {x: 117, y: 131}
+      - - {x: -103, y: -93}
+        - {x: -96, y: 113}
+        - {x: 104, y: 78}
+        - {x: 2, y: -116}
+    - name: Atlas Elements_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1454
+        width: 149
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 140.5}
+        - {x: -74.5, y: -140.5}
+        - {x: 41.5, y: -140.5}
+        - {x: 74.5, y: -131.5}
+        - {x: 74.5, y: 140.5}
+    - name: Atlas Elements_7
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1726
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 57}
+        - {x: -28, y: 57}
+        - {x: -55, y: 46}
+        - {x: -55, y: -52}
+        - {x: -45, y: -57}
+        - {x: 46, y: -57}
+        - {x: 47, y: -55}
+        - {x: 55, y: -32}
+        - {x: 55, y: 37}
+    - name: Atlas Elements_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1725
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 57}
+        - {x: -37.5, y: 57}
+        - {x: -52.5, y: 33}
+        - {x: -55.5, y: 21}
+        - {x: -55.5, y: -19}
+        - {x: -51.5, y: -27}
+        - {x: -49.5, y: -32}
+        - {x: -45.5, y: -38}
+        - {x: -39.5, y: -45}
+        - {x: -30.5, y: -52}
+        - {x: -22.5, y: -57}
+        - {x: 36.5, y: -57}
+        - {x: 47.5, y: -55}
+        - {x: 55.5, y: -28}
+        - {x: 55.5, y: 50}
+    - name: Atlas Elements_9
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1725
+        width: 111
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: 57}
+        - {x: -37.5, y: 57}
+        - {x: -52.5, y: 33}
+        - {x: -55.5, y: 21}
+        - {x: -55.5, y: -19}
+        - {x: -51.5, y: -27}
+        - {x: -49.5, y: -32}
+        - {x: -45.5, y: -38}
+        - {x: -39.5, y: -45}
+        - {x: -30.5, y: -52}
+        - {x: -22.5, y: -57}
+        - {x: 36.5, y: -57}
+        - {x: 47.5, y: -55}
+        - {x: 55.5, y: -28}
+        - {x: 55.5, y: 50}
+    - name: Atlas Elements_10
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1700
+        width: 150
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 27.5}
+        - {x: -70, y: 27.5}
+        - {x: -75, y: 23.5}
+        - {x: -75, y: -21.5}
+        - {x: -73, y: -27.5}
+        - {x: 63, y: -27.5}
+        - {x: 75, y: -19.5}
+        - {x: 75, y: 19.5}
+    - name: Atlas Elements_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1444
+        width: 88
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 117}
+        - {x: -6, y: 108}
+        - {x: -5, y: 93}
+        - {x: -3, y: 85}
+        - {x: 1, y: 79}
+        - {x: 7, y: 73}
+        - {x: 12, y: 70}
+        - {x: 6, y: 72}
+        - {x: 3, y: 77}
+        - {x: -4, y: 85}
+        - {x: -44, y: 91}
+        - {x: -44, y: -116}
+        - {x: -39, y: -117}
+        - {x: 44, y: -117}
+        - {x: 44, y: 117}
+    - name: Atlas Elements_12
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1351
+        width: 178
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 30, z: 19, w: 20}
+      outline:
+      - - {x: -89, y: 131.5}
+        - {x: -89, y: -131.5}
+        - {x: 89, y: -131.5}
+        - {x: 89, y: 131.5}
+    - name: Atlas Elements_13
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1351
+        width: 178
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 72, z: 21, w: 31}
+      outline:
+      - - {x: -89, y: 131.5}
+        - {x: -89, y: -131.5}
+        - {x: 89, y: -131.5}
+        - {x: 89, y: 131.5}
+    - name: Atlas Elements_14
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1330
+        width: 181
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 12, w: 0}
+      outline:
+      - - {x: -90.5, y: 151.5}
+        - {x: -90.5, y: -151.5}
+        - {x: 90.5, y: -151.5}
+        - {x: 90.5, y: 151.5}
+    - name: Atlas Elements_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1203
+        width: 180
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: 90.5}
+        - {x: -87, y: 90.5}
+        - {x: -90, y: 87.5}
+        - {x: -90, y: -90.5}
+        - {x: 88, y: -90.5}
+        - {x: 90, y: -88.5}
+        - {x: 90, y: 87.5}
+    - name: Atlas Elements_16
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 840
+        width: 770
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -151, y: -226}
+        - {x: -150, y: -225}
+        - {x: -114, y: -225}
+        - {x: -113, y: -224}
+        - {x: -67, y: -224}
+        - {x: -66, y: -223}
+        - {x: 107, y: -223}
+        - {x: 108, y: -224}
+        - {x: 155, y: -224}
+        - {x: 156, y: -225}
+        - {x: 195, y: -225}
+        - {x: 196, y: -226}
+        - {x: 233, y: -226}
+        - {x: 234, y: -227}
+        - {x: 312, y: -227}
+        - {x: 313, y: -226}
+        - {x: 320, y: -226}
+        - {x: 326, y: -225}
+        - {x: 338, y: -222}
+        - {x: 343, y: -220}
+        - {x: 354, y: -215}
+        - {x: 356, y: -213}
+        - {x: 360, y: -210}
+        - {x: 368, y: -202}
+        - {x: 368, y: -201}
+        - {x: 373, y: -196}
+        - {x: 377, y: -187}
+        - {x: 379, y: -181}
+        - {x: 380, y: -177}
+        - {x: 381, y: -172}
+        - {x: 381, y: -163}
+        - {x: 382, y: -162}
+        - {x: 382, y: -136}
+        - {x: 383, y: -135}
+        - {x: 383, y: -70}
+        - {x: 384, y: -69}
+        - {x: 384, y: -8}
+        - {x: 385, y: -7}
+        - {x: 385, y: 177}
+        - {x: 384, y: 178}
+        - {x: 383, y: 184}
+        - {x: 381, y: 189}
+        - {x: 379, y: 192}
+        - {x: 376, y: 198}
+        - {x: 367, y: 206}
+        - {x: 364, y: 209}
+        - {x: 358, y: 212}
+        - {x: 353, y: 214}
+        - {x: 347, y: 216}
+        - {x: 339, y: 218}
+        - {x: 333, y: 219}
+        - {x: 326, y: 219}
+        - {x: 325, y: 220}
+        - {x: 296, y: 220}
+        - {x: 295, y: 221}
+        - {x: 222, y: 221}
+        - {x: 221, y: 222}
+        - {x: -45, y: 222}
+        - {x: -46, y: 223}
+        - {x: -97, y: 223}
+        - {x: -98, y: 224}
+        - {x: -133, y: 224}
+        - {x: -134, y: 225}
+        - {x: -164, y: 225}
+        - {x: -165, y: 226}
+        - {x: -194, y: 226}
+        - {x: -195, y: 227}
+        - {x: -223, y: 227}
+        - {x: -224, y: 228}
+        - {x: -310, y: 228}
+        - {x: -311, y: 227}
+        - {x: -319, y: 227}
+        - {x: -324, y: 226}
+        - {x: -328, y: 225}
+        - {x: -331, y: 224}
+        - {x: -332, y: 223}
+        - {x: -340, y: 221}
+        - {x: -347, y: 218}
+        - {x: -352, y: 215}
+        - {x: -354, y: 213}
+        - {x: -359, y: 209}
+        - {x: -370, y: 198}
+        - {x: -373, y: 194}
+        - {x: -377, y: 189}
+        - {x: -382, y: 178}
+        - {x: -384, y: 172}
+        - {x: -385, y: 168}
+        - {x: -385, y: 22}
+        - {x: -384, y: 21}
+        - {x: -383, y: -26}
+        - {x: -382, y: -27}
+        - {x: -381, y: -70}
+        - {x: -380, y: -71}
+        - {x: -380, y: -90}
+        - {x: -379, y: -91}
+        - {x: -379, y: -110}
+        - {x: -378, y: -111}
+        - {x: -378, y: -128}
+        - {x: -377, y: -129}
+        - {x: -377, y: -145}
+        - {x: -376, y: -146}
+        - {x: -376, y: -160}
+        - {x: -375, y: -161}
+        - {x: -375, y: -172}
+        - {x: -374, y: -178}
+        - {x: -373, y: -182}
+        - {x: -372, y: -183}
+        - {x: -371, y: -189}
+        - {x: -366, y: -200}
+        - {x: -364, y: -202}
+        - {x: -358, y: -210}
+        - {x: -356, y: -210}
+        - {x: -349, y: -217}
+        - {x: -336, y: -223}
+        - {x: -330, y: -225}
+        - {x: -322, y: -227}
+        - {x: -317, y: -228}
+        - {x: -214, y: -228}
+        - {x: -213, y: -227}
+    - name: Atlas Elements_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1125
+        width: 507
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 238.5, y: 19}
+        - {x: -238.5, y: 19}
+        - {x: -242.5, y: 15}
+        - {x: -253.5, y: 2}
+        - {x: -253.5, y: -19}
+        - {x: 253.5, y: -19}
+        - {x: 253.5, y: 3}
+        - {x: 241.5, y: 17}
+    - name: Atlas Elements_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 664
+        width: 263
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.5, y: -149.5}
+        - {x: 105.5, y: -136.5}
+        - {x: 125.5, y: -72.5}
+        - {x: 131.5, y: -40.5}
+        - {x: 131.5, y: 8.5}
+        - {x: 130.5, y: 33.5}
+        - {x: 124.5, y: 58.5}
+        - {x: 106.5, y: 101.5}
+        - {x: 106.5, y: 128.5}
+        - {x: 92.5, y: 144.5}
+        - {x: 73.5, y: 158.5}
+        - {x: 73.5, y: 176.5}
+        - {x: 58.5, y: 187.5}
+        - {x: 26.5, y: 195.5}
+        - {x: -23.5, y: 195.5}
+        - {x: -68.5, y: 188.5}
+        - {x: -77.5, y: 175.5}
+        - {x: -106.5, y: 135.5}
+        - {x: -110.5, y: 111.5}
+        - {x: -116.5, y: 83.5}
+        - {x: -126.5, y: 55.5}
+        - {x: -131.5, y: 27.5}
+        - {x: -131.5, y: -51.5}
+        - {x: -127.5, y: -79.5}
+        - {x: -107.5, y: -142.5}
+        - {x: -75.5, y: -167.5}
+        - {x: -75.5, y: -178.5}
+        - {x: -62.5, y: -188.5}
+        - {x: -35.5, y: -192.5}
+        - {x: -15.5, y: -195.5}
+        - {x: 27.5, y: -195.5}
+        - {x: 45.5, y: -191.5}
+        - {x: 78.5, y: -183.5}
+        - {x: 79.5, y: -159.5}
+    - name: Atlas Elements_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 324
+        width: 183
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: 91.5}
+        - {x: -40.5, y: 91.5}
+        - {x: -84.5, y: 67.5}
+        - {x: -91.5, y: 39.5}
+        - {x: -91.5, y: -48.5}
+        - {x: -81.5, y: -62.5}
+        - {x: -34.5, y: -91.5}
+        - {x: 36.5, y: -91.5}
+        - {x: 91.5, y: -57.5}
+        - {x: 91.5, y: 44.5}
+        - {x: 88.5, y: 55.5}
+    - name: Atlas Elements_20
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 300
+        width: 130
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: 67}
+        - {x: -65, y: -67}
+        - {x: 60, y: -67}
+        - {x: 65, y: -65}
+        - {x: 65, y: 63}
+        - {x: 64, y: 67}
+    - name: Atlas Elements_25
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 308
+        width: 218
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: -53}
+        - {x: 109, y: 76}
+        - {x: 84, y: 84}
+        - {x: -55, y: 84}
+        - {x: -70, y: 49}
+        - {x: -109, y: -48}
+        - {x: -109, y: -62}
+        - {x: -66, y: -62}
+        - {x: -99, y: -68}
+        - {x: -108, y: -71}
+        - {x: -109, y: -71}
+        - {x: -109, y: -84}
+        - {x: 109, y: -84}
+        - {x: 109, y: -72}
+        - {x: 103, y: -69}
+    - name: Atlas Elements_30
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 308
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 100}
+        - {x: -62, y: 62}
+        - {x: -55, y: 51}
+        - {x: -44, y: 48}
+        - {x: -68, y: 17}
+        - {x: -68, y: -29}
+        - {x: -60, y: -31}
+        - {x: -45, y: -25}
+        - {x: -60, y: -96}
+        - {x: -51, y: -100}
+        - {x: 68, y: -100}
+        - {x: 68, y: 88}
+        - {x: 26, y: 100}
+    - name: Atlas Elements_31
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 308
+        width: 210
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 86}
+        - {x: -55, y: 32}
+        - {x: -105, y: -49}
+        - {x: -105, y: -82}
+        - {x: -78, y: -86}
+        - {x: 105, y: -86}
+        - {x: 105, y: 80}
+        - {x: 102, y: 86}
+    - name: Atlas Elements_32
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 308
+        width: 205
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: 60}
+        - {x: -25.5, y: 88}
+        - {x: -59.5, y: 88}
+        - {x: -102.5, y: 34}
+        - {x: -102.5, y: -10}
+        - {x: -7.5, y: -88}
+        - {x: 46.5, y: -88}
+        - {x: 74.5, y: -46}
+        - {x: 102.5, y: 7}
+        - {x: 102.5, y: 43}
+    - name: Atlas Elements_33
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 308
+        width: 308
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: -40.5}
+        - {x: 154, y: 28.5}
+        - {x: 154, y: 62.5}
+        - {x: 44, y: 62.5}
+        - {x: 42, y: 60.5}
+        - {x: 41, y: 49.5}
+        - {x: 42, y: 62.5}
+        - {x: -17, y: 62.5}
+        - {x: -19, y: 60.5}
+        - {x: -20, y: 49.5}
+        - {x: -70, y: 69.5}
+        - {x: -117, y: 69.5}
+        - {x: -126, y: 41.5}
+        - {x: -135, y: 14.5}
+        - {x: -154, y: -39.5}
+        - {x: -154, y: -50.5}
+        - {x: -123, y: -50.5}
+        - {x: -153, y: -56.5}
+        - {x: -154, y: -58.5}
+        - {x: -154, y: -66.5}
+        - {x: -151, y: -70.5}
+        - {x: 151, y: -70.5}
+        - {x: 154, y: -66.5}
+        - {x: 154, y: -57.5}
+        - {x: 150, y: -55.5}
+    - name: Atlas Elements_34
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 308
+        width: 155
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: 63}
+        - {x: -77.5, y: 17}
+        - {x: -77.5, y: -36}
+        - {x: -67.5, y: -63}
+        - {x: 77.5, y: -63}
+        - {x: 77.5, y: 35}
+        - {x: 63.5, y: 63}
+    - name: Atlas Elements_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 40
+        width: 225
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 91.5}
+        - {x: -112.5, y: 69.5}
+        - {x: -112.5, y: -88.5}
+        - {x: -28.5, y: -88.5}
+        - {x: -26.5, y: -86.5}
+        - {x: -13.5, y: 16.5}
+        - {x: 10.5, y: -60.5}
+        - {x: 20.5, y: -90.5}
+        - {x: 86.5, y: -90.5}
+        - {x: 112.5, y: -83.5}
+        - {x: 112.5, y: -51.5}
+        - {x: 68.5, y: 91.5}
+    - name: Atlas Elements_37
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 43
+        width: 146
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 93}
+        - {x: -73, y: 69}
+        - {x: -73, y: -8}
+        - {x: -67, y: -23}
+        - {x: -46, y: -47}
+        - {x: -34, y: -93}
+        - {x: 44, y: -93}
+        - {x: 72, y: -56}
+        - {x: 73, y: -52}
+        - {x: 73, y: 93}
+    - name: Atlas Elements_38
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 44
+        width: 182
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 92}
+        - {x: -19, y: 90}
+        - {x: -54, y: 76}
+        - {x: -91, y: 16}
+        - {x: -91, y: -92}
+        - {x: 51, y: -92}
+        - {x: 91, y: -64}
+        - {x: 91, y: 43}
+        - {x: 10, y: 92}
+    - name: Atlas Elements_39
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 80
+        width: 176
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61, y: 53}
+        - {x: -88, y: -24}
+        - {x: -88, y: -53}
+        - {x: 88, y: -53}
+        - {x: 88, y: 41}
+        - {x: 76, y: 53}
+    - name: Atlas Elements_40
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 63
+        width: 147
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 73}
+        - {x: -37.5, y: 73}
+        - {x: -73.5, y: -33}
+        - {x: -73.5, y: -73}
+        - {x: 73.5, y: -73}
+        - {x: 73.5, y: -22}
+        - {x: 53.5, y: 61}
+    - name: Atlas Elements_41
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 63
+        width: 102
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 57}
+        - {x: -51, y: 39}
+        - {x: -51, y: -57}
+        - {x: 51, y: -57}
+        - {x: 51, y: 47}
+        - {x: 33, y: 57}
+    - name: Atlas Elements_42
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 43
+        width: 314
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 115.5}
+        - {x: -43, y: 115.5}
+        - {x: -157, y: -66.5}
+        - {x: -157, y: -91.5}
+        - {x: -143, y: -104.5}
+        - {x: -89, y: -115.5}
+        - {x: -54, y: -115.5}
+        - {x: -51, y: -114.5}
+        - {x: 115, y: -80.5}
+        - {x: 157, y: -48.5}
+        - {x: 157, y: 60.5}
+    - name: Atlas Elements_43
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 90
+        width: 134
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 30}
+        - {x: -67, y: -30}
+        - {x: 67, y: -30}
+        - {x: 67, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
