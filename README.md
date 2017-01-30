@@ -6,13 +6,15 @@ Can be build for Mobile.
 
 ## Contributors
 
-Chema Damak 
-Sami Zalila 
-Aziz Baccouche 
-Yousser ElAmri 
-Tarek Karray 
-Walid Sultane Midani 
-Brahim Jomni
+Chema Damak<br />   
+Sami Zalila<br /> 
+Aziz Baccouche<br /> 
+Yousser ElAmri<br /> 
+Tarek Karray<br /> 
+Walid Sultane Midani<br /> 
+Brahim Jomni<br />
+Eric Bolikowski<br />
+Catharina Vogt  
 
 ## License
 
