@@ -4,6 +4,11 @@ For this project we used the Game Engine : Unity3D - Version 5.4.3f1 .
 The actual project is in Landscape mode. 
 Can be build for Mobile. 
 
+## Demo
+
+The application built for Android can be downloaded from this link and tested:
+http://bit.ly/km-norway
+
 ## Contributors
 
 Chema Damak<br />
