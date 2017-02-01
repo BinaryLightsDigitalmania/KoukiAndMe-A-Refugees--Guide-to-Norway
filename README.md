@@ -19,7 +19,18 @@ Tarek Karray<br />
 Walid Sultane Midani<br /> 
 Brahim Jomni<br />
 Eric Bolikowski<br />
-Catharina Vogt  
+Catharina Vogt<br />
+Aggrey Amatta<br />
+Huda Mzioudet<br />
+Heykel Sarrail<br />
+Melissa Sassi<br />
+Karina Rose Mahan<br />
+Yordanka Evgenieva<br />
+Jørn C. Øwre<br />
+Synne Christiansen<br />
+Anna Kirah<br />
+Megan O' Keeffe<br />
+Christine Petré
 
 ## License
 
